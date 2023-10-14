@@ -836,7 +836,7 @@ color: #fff;
 }
 
 .is-open {
-  opacity: 0;
+  opacity: 1;
   visibility: visible;
   pointer-events: auto;
 }
