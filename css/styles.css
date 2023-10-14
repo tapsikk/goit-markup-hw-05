@@ -621,7 +621,7 @@ input {
 }
 
 .footer-subscribe-icon {
-  right: 24px;
+  margin-left: 16px;
   fill: #ffffff;
 }
 
@@ -660,6 +660,7 @@ input {
 }
 
 .button-modal {
+  padding: 0;
   width: 24px;
   height: 24px;
   padding: auto;
